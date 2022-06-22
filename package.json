@@ -1,0 +1,25 @@
+{
+  "name": "mtw-boilerplate-decks",
+  "author": "Sitdisch",
+  "version": "0.0.1",
+  "description": "Combo of esbuild, deck.gl... to develop/build quickly and easily WebGL-based large-scale data visualizations in canvas bundles. Minified bundles can be easily embedded on a website.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mythemeway/mtw-boilerplate-decks"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node dev.config.js",
+    "build": "node pro.config.js",
+    "terser": "node pro.config.js 1"
+  },
+  "dependencies": {
+    "@deck.gl/core": "8.7.11",
+    "@deck.gl/layers": "8.7.11",
+    "@deck.gl/mesh-layers": "8.7.11",
+    "@deck.gl/geo-layers": "8.7.11",
+    "@loaders.gl/csv": "3.2.4",
+    "esbuild": "0.14.47",
+    "terser": "5.14.1"
+  }
+}
