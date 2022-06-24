@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@deck.gl/core": "8.7.11",
-    "@deck.gl/layers": "8.7.11",
+    "@deck.gl/layers": "8.7.12",
     "@deck.gl/mesh-layers": "8.7.11",
     "@deck.gl/geo-layers": "8.7.11",
     "@loaders.gl/csv": "3.2.4",
