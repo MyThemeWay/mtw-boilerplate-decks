@@ -20,6 +20,6 @@
     "@deck.gl/geo-layers": "8.8.11",
     "@loaders.gl/csv": "3.2.9",
     "esbuild": "0.15.8",
-    "terser": "5.15.0"
+    "terser": "5.15.1"
   }
 }
