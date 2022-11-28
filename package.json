@@ -14,12 +14,12 @@
     "terser": "node pro.config.js 1"
   },
   "dependencies": {
-    "@deck.gl/core": "8.8.15",
-    "@deck.gl/layers": "8.8.15",
-    "@deck.gl/mesh-layers": "8.8.15",
-    "@deck.gl/geo-layers": "8.8.15",
-    "@loaders.gl/csv": "3.2.11",
-    "esbuild": "0.15.12",
-    "terser": "5.15.1"
+    "@deck.gl/core": "8.8.20",
+    "@deck.gl/layers": "8.8.20",
+    "@deck.gl/mesh-layers": "8.8.20",
+    "@deck.gl/geo-layers": "8.8.20",
+    "@loaders.gl/csv": "3.2.12",
+    "esbuild": "0.15.16",
+    "terser": "5.16.0"
   }
 }
