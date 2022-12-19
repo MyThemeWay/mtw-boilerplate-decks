@@ -1,7 +1,7 @@
 <div align='center'>
 <h1>MTW-BOILERPLATE-DECKS</h1>
 <img src="https://repository-images.githubusercontent.com/505743675/a0d372b8-8f22-4373-aa0f-99fe0793743e"/><br>
-<a href="https://github.com/mythemeway/mtw-boilerplate-decks/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/mythemeway/mtw-boilerplate-decks/CodeQL?logo=github&label=CodeQL&cacheSeconds=3600" /></a>
+<a href="https://github.com/mythemeway/mtw-boilerplate-decks/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/actions/workflow/status/mythemeway/mtw-boilerplate-decks/codeql-analysis.yml?branch=main&logo=github&label=CodeQL&cacheSeconds=3600" /></a>
 <img src="https://img.shields.io/github/languages/code-size/mythemeway/mtw-boilerplate-decks?label=CodeSize&cacheSeconds=3600" /><br>
 <img src="https://img.shields.io/github/repo-size/mythemeway/mtw-boilerplate-decks?label=RepoSize&cacheSeconds=3600" />
 <a title="Check it out" target="_blank" href="https://github.com/mythemeway/mtw-boilerplate-decks/blob/main/LICENSE.txt"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/License-MIT.svg" /></a>
