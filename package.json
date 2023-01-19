@@ -17,7 +17,7 @@
     "@deck.gl/core": "8.8.20",
     "@deck.gl/layers": "8.8.20",
     "@deck.gl/mesh-layers": "8.8.20",
-    "@deck.gl/geo-layers": "8.8.20",
+    "@deck.gl/geo-layers": "8.8.23",
     "@loaders.gl/csv": "3.2.12",
     "esbuild": "0.16.9",
     "terser": "5.16.1"
