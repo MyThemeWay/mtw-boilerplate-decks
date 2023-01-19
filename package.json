@@ -14,7 +14,7 @@
     "terser": "node pro.config.js 1"
   },
   "dependencies": {
-    "@deck.gl/core": "8.8.20",
+    "@deck.gl/core": "8.8.23",
     "@deck.gl/layers": "8.8.20",
     "@deck.gl/mesh-layers": "8.8.20",
     "@deck.gl/geo-layers": "8.8.20",
