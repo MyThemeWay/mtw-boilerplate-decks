@@ -1,0 +1,6 @@
+node_modules
+.ncurc.json
+canvas.bundle.min.js
+:w
+*~
+*.swp
